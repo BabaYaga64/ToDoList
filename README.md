@@ -4,7 +4,7 @@
 
 ###Description
 
-This application allows users to create a to do list by adding tasks one at a time, and saving them after they are added. A PHP class is used, along with methods and properties to store the tasks. Silex is used to submit new instances of the object, and the Twig template framework is used to display the new instances of each object.
+This application allows users to create a to do list by adding tasks one at a time, and saving them after they are added. A PHP class is used, along with a session variable to store the tasks into the browser via cookies. Silex is used to submit new instances of the object, and the Twig template framework is used to display the new instances of each object.
 
 ###Technologies Used
 
